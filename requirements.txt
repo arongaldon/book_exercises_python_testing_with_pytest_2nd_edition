@@ -1,4 +1,4 @@
-./cards_proj
+./code/cards_proj
 click==7.1.2
 colorama==0.4.6
 commonmark==0.9.1

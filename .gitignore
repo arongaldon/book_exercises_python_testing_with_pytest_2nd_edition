@@ -161,5 +161,4 @@ cython_debug/
 
 # Book's author code that can be retrieved from
 # https://media.pragprog.com/titles/bopytest2/code/bopytest2-code.zip
-cards_proj/
-
+code/
